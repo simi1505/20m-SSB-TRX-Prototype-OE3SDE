@@ -1,0 +1,11 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Transmitter/Eagle Files/Buffer Amplifier/SSB Transceiver_Buffer Amplifier.sch at 01/05/2020 20:04
+
+Qty Value          Device                      Package                  Parts      Description                                           MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+3   100nF          C-EUC0805                   C0805                    C1, C2, C3 CAPACITOR, European symbol                                                                                 88         C          
+1   12V            PINHD-1X2                   1X02                     JP1        PIN HEADER                                                                                                                       
+1   165R           R-EU_R0805                  R0805                    R3         RESISTOR, European symbol                                                                                  86         R          
+1   2.7k           R-EU_R0805                  R0805                    R1         RESISTOR, European symbol                                                                                  86         R          
+1   3.9k           R-EU_R0805                  R0805                    R2         RESISTOR, European symbol                                                                                  86         R          
+1   From BPF       SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X1         SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   MMBT3904       MMBT3904LT1-NPN-SOT23-BEC   SOT23-BEC                T1         NPN Transistror                                                                                                                  
+1   To Driver Amp. SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X2         SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         

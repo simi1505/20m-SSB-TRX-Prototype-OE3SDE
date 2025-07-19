@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-05-01T18:04:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SSB Transceiver_Buffer Amplifier"
+        },
+        "Owner": "Simon Dorrer <si1505do@gmail.com>",
+        "Size": {
+            "X": 22,
+            "Y": 25
+        }
+    }
+}

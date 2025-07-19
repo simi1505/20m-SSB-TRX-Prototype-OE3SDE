@@ -1,0 +1,10 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Receiver/Eagle Files/LC Double Tuned Bandpass Filters/SSB Transceiver_LC Double Tuned Bandpass Filter.sch at 11/02/2020 19:55
+
+Qty Value   Device               Package                  Parts    Description                                           MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2   10pF    C-EUC0805            C0805                    C1, C2   CAPACITOR, European symbol                                                                                 88         C          
+2   2.12uH  T50-6                T50-6SMD                 L1, L2                                                                                                                                    
+2   20pF    VARIABLECAP          VARIABLECAP-SMD          C1V, C2V                                                                                                                                  
+2   37.7pF  C-EUC0805            C0805                    C1L, C2L CAPACITOR, European symbol                                                                                 88         C          
+1   5.7pF   C-EUC0805            C0805                    C12      CAPACITOR, European symbol                                                                                 88         C          
+1   SMA_IN  SMA-142-0711-821/826 J502-ND-142-0711-821/826 X1       SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   SMA_OUT SMA-142-0711-821/826 J502-ND-142-0711-821/826 X2       SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         

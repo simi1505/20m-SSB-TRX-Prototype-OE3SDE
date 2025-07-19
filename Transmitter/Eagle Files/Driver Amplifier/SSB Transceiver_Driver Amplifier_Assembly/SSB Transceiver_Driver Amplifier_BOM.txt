@@ -1,0 +1,19 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Transmitter/Eagle Files/Driver Amplifier/SSB Transceiver_Driver Amplifier.sch at 08/02/2020 14:05
+
+Qty Value    Device                      Package                  Parts              Description                                                MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+5   100nF    C-EUC0805                   C0805                    C1, C3, C4, C5, C6 CAPACITOR, European symbol                                                                                      88         C          
+1   100uF    C-EUC0805                   C0805                    C2                 CAPACITOR, European symbol                                                                                      88         C          
+1   12V      AK300/2                     AK300/2                  X3                 CONNECTOR                                                                                  unknown    unknown                         
+1   15k      R-EU_R0805                  R0805                    R1                 RESISTOR, European symbol                                                                                       86         R          
+1   1k       R-EU_R0805                  R0805                    R5                 RESISTOR, European symbol                                                                                       86         R          
+1   220R     R-EU_R0805                  R0805                    R6                 RESISTOR, European symbol                                                                                       86         R          
+1   2SC5171  TIP31B                      TO220                    Q2                 NPN Transistor  Medium Power Linear Switching Applications                                                                            
+1   3.3R     R-EU_R0805                  R0805                    R7                 RESISTOR, European symbol                                                                                       86         R          
+1   3.3k     R-EU_R0805                  R0805                    R2                 RESISTOR, European symbol                                                                                       86         R          
+1   43R      R-EU_R0805                  R0805                    R8                 RESISTOR, European symbol                                                                                       86         R          
+1   56R      R-EU_R0805                  R0805                    R3                 RESISTOR, European symbol                                                                                       86         R          
+1   8.5R     R-EU_R0805                  R0805                    R4                 RESISTOR, European symbol                                                                                       86         R          
+2   FT37-43  FT37-43                     FT37-43SMD               T1, T2                                                                                                                                                   
+1   MMBT3904 MMBT3904LT1-NPN-SOT23-BEC   SOT23-BEC                Q1                 NPN Transistror                                                                                                                       
+1   SMA-IN   SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X1                 SMA 50 Ohm End Launch Jack Receptacle - Round Contact      JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   SMA-OUT  SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X2                 SMA 50 Ohm End Launch Jack Receptacle - Round Contact      JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         

@@ -1,0 +1,9 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Supply PCB/SSB Transceiver_Supply PCB.sch at 14/03/2020 20:48
+
+Qty Value  Device         Package Parts              Description                          MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+5          AK300/2        AK300/2 X2, X3, X4, X5, X6 CONNECTOR                                   unknown    unknown                         
+1   100nF  C-EUC0805K     C0805K  C2                 CAPACITOR, European symbol                                       52         C          
+1   12V    AK300/2        AK300/2 X1                 CONNECTOR                                   unknown    unknown                         
+1   3300uF CPOL-EUE7.5-16 E7,5-16 C1                 POLARIZED CAPACITOR, European symbol                             4          C          
+1   DC-IN  JACK-PLUG1     SPC4078 J1                 DC POWER JACK                               unknown    unknown                         
+1   DC-OUT PINHD-1X6      1X06    X7                 PIN HEADER                                                                             

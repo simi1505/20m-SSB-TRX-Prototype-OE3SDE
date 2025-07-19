@@ -1,0 +1,10 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Transmitter/Eagle Files/Supply EMI Filter/SSB Transceiver_Supply EMI Filter.sch at 07/01/2020 21:00
+
+Qty Value          Device              Package Parts  Description                          POPULARITY PROD_ID    SPICEPREFIX VALUE           
+1   100uF          CPOL-EUE2.5-7       E2,5-7  C1     POLARIZED CAPACITOR, European symbol 17                    C                           
+1   10R            R-EU_R0805          R0805   R1     RESISTOR, European symbol            86                    R                           
+2   10nF           C-EUC0805           C0805   C2, C4 CAPACITOR, European symbol           88                    C                           
+1   10uF           C-EUC0805           C0805   C3     CAPACITOR, European symbol           88                    C                           
+1   12V            PINHD-1X2           1X02    JP1    PIN HEADER                                                                             
+1   12V_filtered   PINHD-1X2           1X02    JP2    PIN HEADER                                                                             
+1   BLM21SP102SH1D INDUCTOR-0805-3.3UH 0805    L1     Inductors                                       NDUC-13076             3.3µH/±20%/450mA

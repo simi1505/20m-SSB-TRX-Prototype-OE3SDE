@@ -1,0 +1,9 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Transmitter/Eagle Files/Crystal Ladder Filter/SSB Transceiver_Crystal Ladder Filter.sch at 13/01/2020 09:06
+
+Qty Value   Device               Package                  Parts          Description                                           MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2   16.5pF  C-EUC0805            C0805                    C2, C4         CAPACITOR, European symbol                                                                                 88         C          
+3   20pF    C-EUC0805            C0805                    C1, C3, C5     CAPACITOR, European symbol                                                                                 88         C          
+4   9MHz    CRYSTALHC49S         HC49/S                   Q1, Q2, Q3, Q4 CRYSTAL                                                                               1667008    unknown                         
+2   FT37-43 FT37-43              FT37-43SMD               T1, T2                                                                                                                                          
+1   SMA_IN  SMA-142-0711-821/826 J502-ND-142-0711-821/826 X1             SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   SMA_OUT SMA-142-0711-821/826 J502-ND-142-0711-821/826 X2             SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         

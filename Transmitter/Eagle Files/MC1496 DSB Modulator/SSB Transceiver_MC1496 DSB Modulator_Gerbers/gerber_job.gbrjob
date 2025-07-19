@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-12T13:15:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SSB Transceiver_MC1496 DSB Modulator"
+        },
+        "Owner": "Simon Dorrer <si1505do@gmail.com>",
+        "Size": {
+            "X": 72.5,
+            "Y": 30
+        }
+    }
+}

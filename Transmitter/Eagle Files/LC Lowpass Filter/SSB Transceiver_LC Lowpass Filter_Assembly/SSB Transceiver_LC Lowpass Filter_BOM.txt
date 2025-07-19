@@ -1,0 +1,8 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Transmitter/Eagle Files/LC Lowpass Filter/SSB Transceiver_LC Lowpass Filter.sch at 20/01/2020 16:40
+
+Qty Value   Device               Package                  Parts  Description                                           MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2   180pF   C-EUC0805            C0805                    C1, C3 CAPACITOR, European symbol                                                                                 88         C          
+1   330pF   C-EUC0805            C0805                    C2     CAPACITOR, European symbol                                                                                 88         C          
+2   580nH   T50-6                T50-6SMD                 L1, L2                                                                                                                                  
+1   SMA_IN  SMA-142-0711-821/826 J502-ND-142-0711-821/826 X1     SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   SMA_OUT SMA-142-0711-821/826 J502-ND-142-0711-821/826 X2     SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         

@@ -1,0 +1,18 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Digital/Eagle Files/SSB Transceiver_Digital.sch at 10/04/2020 19:08
+
+Qty Value        Device       Package      Parts Description                MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1   100nF        C-EUC0805K   C0805K       C1    CAPACITOR, European symbol                             52         C          
+1   12V-IN       JACK-PLUG1   SPC4078      J1    DC POWER JACK                     unknown    unknown                         
+1   2k           R-EU_R0805   R0805        R1    RESISTOR, European symbol                              86         R          
+1   4.7k         R-EU_R0805   R0805        R2    RESISTOR, European symbol                              86         R          
+1   470R         R-EU_R0805   R0805        R3    RESISTOR, European symbol                              86         R          
+1   Arduino Nano ARDUINO_NANO ARDUINO_NANO U1    Arduino Nano V3.0                                                            
+1   Display      PINHD-1X4    1X04         JP6   PIN HEADER                                                                   
+1   HC-05        PINHD-1X6    1X06         JP1   PIN HEADER                                                                   
+1   Keyboard     PINHD-1X9    1X09         JP5   PIN HEADER                                                                   
+1   POTI_F       PINHD-1X3    1X03         JP7   PIN HEADER                                                                   
+1   PTT_I        PINHD-1X2    1X02         JP2   PIN HEADER                                                                   
+1   PTT_O        PINHD-1X3    1X03         JP4   PIN HEADER                                                                   
+1   SI5351       SI5351       1X07         U2                                                                                 
+1   Stepper      PINHD-1X4    1X04         JP8   PIN HEADER                                                                   
+1   TX_L         PINHD-1X2    1X02         JP3   PIN HEADER                                                                   

@@ -1,0 +1,16 @@
+Partlist exported from E:/Simon Dorrer/DIY Projekte/Amateurfunkprojekte/SSB Transceiver/Receiver/Eagle Files/IF Amplifier/SSB Transceiver_IF Amplifier.sch at 15/01/2020 23:15
+
+Qty Value            Device                      Package                  Parts      Description                                           MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1   1.5k             R-EU_R0805                  R0805                    R3         RESISTOR, European symbol                                                                                  86         R          
+3   100nF            C-EUC0805                   C0805                    C1, C2, C4 CAPACITOR, European symbol                                                                                 88         C          
+1   12V              PINHD-1X2                   1X02                     JP1        PIN HEADER                                                                                                                       
+1   12k              R-EU_R0805                  R0805                    R2         RESISTOR, European symbol                                                                                  86         R          
+1   1k               TRIM_EU-3223G               3223G                    R6         POTENTIOMETER                                                                                                                    
+1   1uF              C-EUC0805                   C0805                    C3         CAPACITOR, European symbol                                                                                 88         C          
+1   300R             R-EU_R0805                  R0805                    R4         RESISTOR, European symbol                                                                                  86         R          
+1   56R              R-EU_R0805                  R0805                    R5         RESISTOR, European symbol                                                                                  86         R          
+1   62k              R-EU_R0805                  R0805                    R1         RESISTOR, European symbol                                                                                  86         R          
+1   FT37-43          FT37-43                     FT37-43SMD               T1                                                                                                                                          
+1   From Crystal     SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X1         SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
+1   MMBT3904         MMBT3904LT1-NPN-SOT23-BEC   SOT23-BEC                T2         NPN Transistror                                                                                                                  
+1   To MC1496 Demod. SMA-PCB-CON142-0711-821/826 J502-ND-142-0711-821/826 X2         SMA 50 Ohm End Launch Jack Receptacle - Round Contact JOHNSON COMPONENTS 142-0711-821 1019328    16F3627                         
